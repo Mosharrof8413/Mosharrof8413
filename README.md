@@ -13,12 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Hi there 👋
 <h1 align="center">Hi there👋, I'm Md. Mosharrof Hossain</h1>
-<h3 align="center">Passionate competitive programmer | Open Source Enthusiast</h3>
-<h3 align="center" >Dept of CSTE, Noakhali Science and Technology University.</h3>
-<br>
+-💻  I’m a competitive programmer
 - 🌱 I’m currently learning Graph therory
 - 👯 Open for collaboration on any CS Research project and Open Source Development project
 - 📫 How to reach me: mosharrofhossain8413@gmail.com
