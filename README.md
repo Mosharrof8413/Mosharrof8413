@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-
-- 💻 I’m a competitive programmer
+<h1 align="center">Hi there👋, I'm Md. Mosharrof Hossain</h1>
+<h3 align="center">Passionate competitive programmer | Open Source Enthusiast</h3>
+<h3 align="center" >Dept of CSTE, Noakhali Science and Technology University.</h3>
+<br>
 - 🌱 I’m currently learning Graph therory
 - 👯 Open for collaboration on any CS Research project and Open Source Development project
 - 📫 How to reach me: mosharrofhossain8413@gmail.com
@@ -26,5 +28,8 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mosharrof8413&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mosharrof8413&layout=compact&langs_count=10)
 ## Connect with me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mosharrof8413/) 
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mosharrof8413) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mosharrof8413/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://leetcode.com/mosharrof8413/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mosharrof8413)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://codeforces.com/profile/Mosharrof13)
+  
